@@ -1,5 +1,3 @@
-# supreme-fishstick
-Stock -market predictor using lstm
 # Stock Market Prediction using LSTM and Streamlit
 
 ## Overview
